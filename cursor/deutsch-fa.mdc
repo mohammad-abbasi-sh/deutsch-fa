@@ -1,0 +1,64 @@
+---
+description: German declension for Persian speakers — never guess der/die/das; decline nouns with the deterministic checker, predict gender from ending rules (stated reliability), and check learner sentences for article/case errors. Apply whenever German text is written or corrected for Persian-speaking learners.
+globs: "**/*.{md,txt,json,yaml,yml}"
+alwaysApply: false
+---
+
+# German declension for Persian speakers — look it up, never guess it
+
+## The contract
+
+1. **Never guess der/die/das.** When German text is on the table, run the
+   checker (zero-dependency, pure stdlib):
+
+   ```bash
+   python3 scripts/deutsch_fa.py decline <noun> [--json]
+   ```
+
+   Full paradigm: definite/indefinite/negative articles × 4 cases,
+   singular + plural, possessive forms, weak adjective endings, Persian
+   gloss, and the traps (N-Deklination, das Mädchen, des Busses).
+   Exit codes: `0` = declined · `1` = noun not in the curated list
+   (a rule-based gender *hint* is printed — verify in a dictionary) ·
+   `2` = usage error.
+
+2. **Predict gender with the rules, stated honestly.** `-ung/-heit/-keit`
+   → feminine (very reliable); `-chen/-lein` → neuter (very reliable);
+   days/months/seasons → masculine (reliable); `-e` → feminine (strong
+   tendency — memorize *der Junge, der Name, der Käse*); `-nis/-tum` →
+   neuter (mostly — *die Kenntnis, der Reichtum* are exceptions).
+   Full table: `references/gender-rules.md`. Apply to one word:
+
+   ```bash
+   python3 scripts/deutsch_fa.py rules <word>
+   ```
+
+3. **Check learner sentences conservatively.** Only what is decidable
+   from verb frames (`sehen` → Akkusativ, `helfen` → Dativ,
+   `geben` → Dativ + Akkusativ) or case prepositions (`mit` → Dativ,
+   `für` → Akkusativ) gets flagged — including N-declension
+   (`den Student` → `den Studenten`) and adjective endings
+   (`den kleine Mann` → `den kleinen Mann`):
+
+   ```bash
+   python3 scripts/deutsch_fa.py check "Ich sehe der Mann" [--json]
+   ```
+
+   Exit codes: `0` = no findings · `1` = findings. **No finding is not a
+   proof of correctness** — say that when reporting.
+
+4. **Drill and export.** `quiz [--n 5] [--ask article|plural|akkusativ]`
+   for interactive drills; `anki [--out cards.tsv]` exports the noun
+   list as Anki-importable TSV.
+
+## Limits
+
+- Curated list is A1 core vocabulary (199 nouns, v0.1.0) — not a
+  dictionary replacement for words outside it.
+- The checker skips unknown nouns, subordinate clauses and
+  Wechselpräpositionen rather than guessing.
+- A deterministic reference, not a teacher: no judgment on style or
+  naturalness.
+
+The full skill with references and the MCP server lives in
+`skills/deutsch-fa/` and `mcp-server/`.
