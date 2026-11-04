@@ -1,0 +1,1208 @@
+[
+  {
+    "de": "Mann",
+    "gender": "m",
+    "plural": "Männer",
+    "fa": "مرد"
+  },
+  {
+    "de": "Frau",
+    "gender": "f",
+    "plural": "Frauen",
+    "fa": "زن"
+  },
+  {
+    "de": "Kind",
+    "gender": "n",
+    "plural": "Kinder",
+    "fa": "بچه، کودک"
+  },
+  {
+    "de": "Junge",
+    "gender": "m",
+    "plural": "Jungen",
+    "fa": "پسر",
+    "weak": true
+  },
+  {
+    "de": "Mädchen",
+    "gender": "n",
+    "plural": "Mädchen",
+    "fa": "دختر (بچه)",
+    "note": "طبیعتاً مؤنث ولی از نظر دستوری خنثی است، چون پسوند chen- خنثی‌ساز است"
+  },
+  {
+    "de": "Vater",
+    "gender": "m",
+    "plural": "Väter",
+    "fa": "پدر"
+  },
+  {
+    "de": "Mutter",
+    "gender": "f",
+    "plural": "Mütter",
+    "fa": "مادر"
+  },
+  {
+    "de": "Bruder",
+    "gender": "m",
+    "plural": "Brüder",
+    "fa": "برادر"
+  },
+  {
+    "de": "Schwester",
+    "gender": "f",
+    "plural": "Schwestern",
+    "fa": "خواهر"
+  },
+  {
+    "de": "Sohn",
+    "gender": "m",
+    "plural": "Söhne",
+    "fa": "پسر (فرزند)"
+  },
+  {
+    "de": "Tochter",
+    "gender": "f",
+    "plural": "Töchter",
+    "fa": "دختر (فرزند)"
+  },
+  {
+    "de": "Eltern",
+    "gender": "pl",
+    "plural": "Eltern",
+    "fa": "والدین"
+  },
+  {
+    "de": "Onkel",
+    "gender": "m",
+    "plural": "Onkel",
+    "fa": "عمو، دایی"
+  },
+  {
+    "de": "Tante",
+    "gender": "f",
+    "plural": "Tanten",
+    "fa": "عمه، خاله"
+  },
+  {
+    "de": "Haus",
+    "gender": "n",
+    "plural": "Häuser",
+    "fa": "خانه"
+  },
+  {
+    "de": "Wohnung",
+    "gender": "f",
+    "plural": "Wohnungen",
+    "fa": "آپارتمان"
+  },
+  {
+    "de": "Zimmer",
+    "gender": "n",
+    "plural": "Zimmer",
+    "fa": "اتاق"
+  },
+  {
+    "de": "Tür",
+    "gender": "f",
+    "plural": "Türen",
+    "fa": "در"
+  },
+  {
+    "de": "Fenster",
+    "gender": "n",
+    "plural": "Fenster",
+    "fa": "پنجره"
+  },
+  {
+    "de": "Tisch",
+    "gender": "m",
+    "plural": "Tische",
+    "fa": "میز"
+  },
+  {
+    "de": "Stuhl",
+    "gender": "m",
+    "plural": "Stühle",
+    "fa": "صندلی"
+  },
+  {
+    "de": "Bett",
+    "gender": "n",
+    "plural": "Betten",
+    "fa": "تختخواب"
+  },
+  {
+    "de": "Küche",
+    "gender": "f",
+    "plural": "Küchen",
+    "fa": "آشپزخانه"
+  },
+  {
+    "de": "Bad",
+    "gender": "n",
+    "plural": "Bäder",
+    "fa": "حمام"
+  },
+  {
+    "de": "Lampe",
+    "gender": "f",
+    "plural": "Lampen",
+    "fa": "چراغ"
+  },
+  {
+    "de": "Schrank",
+    "gender": "m",
+    "plural": "Schränke",
+    "fa": "کمد"
+  },
+  {
+    "de": "Sofa",
+    "gender": "n",
+    "plural": "Sofas",
+    "fa": "مبل"
+  },
+  {
+    "de": "Teppich",
+    "gender": "m",
+    "plural": "Teppiche",
+    "fa": "فرش"
+  },
+  {
+    "de": "Brot",
+    "gender": "n",
+    "plural": "Brote",
+    "fa": "نان"
+  },
+  {
+    "de": "Wasser",
+    "gender": "n",
+    "plural": null,
+    "fa": "آب"
+  },
+  {
+    "de": "Apfel",
+    "gender": "m",
+    "plural": "Äpfel",
+    "fa": "سیب"
+  },
+  {
+    "de": "Banane",
+    "gender": "f",
+    "plural": "Bananen",
+    "fa": "موز"
+  },
+  {
+    "de": "Orange",
+    "gender": "f",
+    "plural": "Orangen",
+    "fa": "پرتقال"
+  },
+  {
+    "de": "Kartoffel",
+    "gender": "f",
+    "plural": "Kartoffeln",
+    "fa": "سیب‌زمینی"
+  },
+  {
+    "de": "Reis",
+    "gender": "m",
+    "plural": null,
+    "fa": "برنج"
+  },
+  {
+    "de": "Milch",
+    "gender": "f",
+    "plural": null,
+    "fa": "شیر"
+  },
+  {
+    "de": "Käse",
+    "gender": "m",
+    "plural": null,
+    "fa": "پنیر"
+  },
+  {
+    "de": "Ei",
+    "gender": "n",
+    "plural": "Eier",
+    "fa": "تخم‌مرغ"
+  },
+  {
+    "de": "Fleisch",
+    "gender": "n",
+    "plural": null,
+    "fa": "گوشت"
+  },
+  {
+    "de": "Fisch",
+    "gender": "m",
+    "plural": "Fische",
+    "fa": "ماهی"
+  },
+  {
+    "de": "Gemüse",
+    "gender": "n",
+    "plural": null,
+    "fa": "سبزیجات"
+  },
+  {
+    "de": "Obst",
+    "gender": "n",
+    "plural": null,
+    "fa": "میوه"
+  },
+  {
+    "de": "Kaffee",
+    "gender": "m",
+    "plural": null,
+    "fa": "قهوه"
+  },
+  {
+    "de": "Tee",
+    "gender": "m",
+    "plural": null,
+    "fa": "چای"
+  },
+  {
+    "de": "Bier",
+    "gender": "n",
+    "plural": "Biere",
+    "fa": "آبجو"
+  },
+  {
+    "de": "Wein",
+    "gender": "m",
+    "plural": "Weine",
+    "fa": "شراب"
+  },
+  {
+    "de": "Kuchen",
+    "gender": "m",
+    "plural": "Kuchen",
+    "fa": "کیک"
+  },
+  {
+    "de": "Suppe",
+    "gender": "f",
+    "plural": "Suppen",
+    "fa": "سوپ"
+  },
+  {
+    "de": "Salat",
+    "gender": "m",
+    "plural": "Salate",
+    "fa": "سالاد"
+  },
+  {
+    "de": "Salz",
+    "gender": "n",
+    "plural": null,
+    "fa": "نمک"
+  },
+  {
+    "de": "Zucker",
+    "gender": "m",
+    "plural": null,
+    "fa": "شکر"
+  },
+  {
+    "de": "Butter",
+    "gender": "f",
+    "plural": null,
+    "fa": "کره"
+  },
+  {
+    "de": "Frühstück",
+    "gender": "n",
+    "plural": null,
+    "fa": "صبحانه"
+  },
+  {
+    "de": "Mittagessen",
+    "gender": "n",
+    "plural": null,
+    "fa": "ناهار"
+  },
+  {
+    "de": "Abendessen",
+    "gender": "n",
+    "plural": null,
+    "fa": "شام"
+  },
+  {
+    "de": "Kopf",
+    "gender": "m",
+    "plural": "Köpfe",
+    "fa": "سر"
+  },
+  {
+    "de": "Auge",
+    "gender": "n",
+    "plural": "Augen",
+    "fa": "چشم"
+  },
+  {
+    "de": "Nase",
+    "gender": "f",
+    "plural": "Nasen",
+    "fa": "بینی"
+  },
+  {
+    "de": "Mund",
+    "gender": "m",
+    "plural": "Münder",
+    "fa": "دهان"
+  },
+  {
+    "de": "Ohr",
+    "gender": "n",
+    "plural": "Ohren",
+    "fa": "گوش"
+  },
+  {
+    "de": "Hand",
+    "gender": "f",
+    "plural": "Hände",
+    "fa": "دست"
+  },
+  {
+    "de": "Fuß",
+    "gender": "m",
+    "plural": "Füße",
+    "fa": "پا"
+  },
+  {
+    "de": "Bein",
+    "gender": "n",
+    "plural": "Beine",
+    "fa": "ساق پا"
+  },
+  {
+    "de": "Arm",
+    "gender": "m",
+    "plural": "Arme",
+    "fa": "بازو"
+  },
+  {
+    "de": "Herz",
+    "gender": "n",
+    "plural": "Herzen",
+    "fa": "قلب",
+    "weak": true,
+    "note": "اسم خنثیِ ضعیف: des Herzens ،dem Herzen"
+  },
+  {
+    "de": "Zahn",
+    "gender": "m",
+    "plural": "Zähne",
+    "fa": "دندان"
+  },
+  {
+    "de": "Haar",
+    "gender": "n",
+    "plural": "Haare",
+    "fa": "مو"
+  },
+  {
+    "de": "Hose",
+    "gender": "f",
+    "plural": "Hosen",
+    "fa": "شلوار"
+  },
+  {
+    "de": "Hemd",
+    "gender": "n",
+    "plural": "Hemden",
+    "fa": "پیراهن"
+  },
+  {
+    "de": "Jacke",
+    "gender": "f",
+    "plural": "Jacken",
+    "fa": "ژاکت"
+  },
+  {
+    "de": "Mantel",
+    "gender": "m",
+    "plural": "Mäntel",
+    "fa": "پالتو"
+  },
+  {
+    "de": "Schuh",
+    "gender": "m",
+    "plural": "Schuhe",
+    "fa": "کفش"
+  },
+  {
+    "de": "Mütze",
+    "gender": "f",
+    "plural": "Mützen",
+    "fa": "کلاه بافتنی"
+  },
+  {
+    "de": "Hut",
+    "gender": "m",
+    "plural": "Hüte",
+    "fa": "کلاه"
+  },
+  {
+    "de": "Brille",
+    "gender": "f",
+    "plural": "Brillen",
+    "fa": "عینک"
+  },
+  {
+    "de": "Rock",
+    "gender": "m",
+    "plural": "Röcke",
+    "fa": "دامن"
+  },
+  {
+    "de": "Kleid",
+    "gender": "n",
+    "plural": "Kleider",
+    "fa": "پیراهن زنانه"
+  },
+  {
+    "de": "Socke",
+    "gender": "f",
+    "plural": "Socken",
+    "fa": "جوراب"
+  },
+  {
+    "de": "Stadt",
+    "gender": "f",
+    "plural": "Städte",
+    "fa": "شهر"
+  },
+  {
+    "de": "Dorf",
+    "gender": "n",
+    "plural": "Dörfer",
+    "fa": "روستا"
+  },
+  {
+    "de": "Straße",
+    "gender": "f",
+    "plural": "Straßen",
+    "fa": "خیابان"
+  },
+  {
+    "de": "Bahnhof",
+    "gender": "m",
+    "plural": "Bahnhöfe",
+    "fa": "ایستگاه قطار"
+  },
+  {
+    "de": "Bus",
+    "gender": "m",
+    "plural": "Busse",
+    "fa": "اتوبوس",
+    "gen_sg": "Busses"
+  },
+  {
+    "de": "Bahn",
+    "gender": "f",
+    "plural": "Bahnen",
+    "fa": "قطار، راه‌آهن"
+  },
+  {
+    "de": "Auto",
+    "gender": "n",
+    "plural": "Autos",
+    "fa": "ماشین"
+  },
+  {
+    "de": "Fahrrad",
+    "gender": "n",
+    "plural": "Fahrräder",
+    "fa": "دوچرخه"
+  },
+  {
+    "de": "Flugzeug",
+    "gender": "n",
+    "plural": "Flugzeuge",
+    "fa": "هواپیما"
+  },
+  {
+    "de": "Zug",
+    "gender": "m",
+    "plural": "Züge",
+    "fa": "قطار"
+  },
+  {
+    "de": "Taxi",
+    "gender": "n",
+    "plural": "Taxis",
+    "fa": "تاکسی"
+  },
+  {
+    "de": "Ampel",
+    "gender": "f",
+    "plural": "Ampeln",
+    "fa": "چراغ راهنمایی"
+  },
+  {
+    "de": "Brücke",
+    "gender": "f",
+    "plural": "Brücken",
+    "fa": "پل"
+  },
+  {
+    "de": "Arbeit",
+    "gender": "f",
+    "plural": "Arbeiten",
+    "fa": "کار"
+  },
+  {
+    "de": "Beruf",
+    "gender": "m",
+    "plural": "Berufe",
+    "fa": "شغل، حرفه"
+  },
+  {
+    "de": "Schule",
+    "gender": "f",
+    "plural": "Schulen",
+    "fa": "مدرسه"
+  },
+  {
+    "de": "Universität",
+    "gender": "f",
+    "plural": "Universitäten",
+    "fa": "دانشگاه"
+  },
+  {
+    "de": "Lehrer",
+    "gender": "m",
+    "plural": "Lehrer",
+    "fa": "معلم"
+  },
+  {
+    "de": "Lehrerin",
+    "gender": "f",
+    "plural": "Lehrerinnen",
+    "fa": "معلم (زن)"
+  },
+  {
+    "de": "Schüler",
+    "gender": "m",
+    "plural": "Schüler",
+    "fa": "دانش‌آموز"
+  },
+  {
+    "de": "Student",
+    "gender": "m",
+    "plural": "Studenten",
+    "fa": "دانشجو",
+    "weak": true
+  },
+  {
+    "de": "Studentin",
+    "gender": "f",
+    "plural": "Studentinnen",
+    "fa": "دانشجو (زن)"
+  },
+  {
+    "de": "Buch",
+    "gender": "n",
+    "plural": "Bücher",
+    "fa": "کتاب"
+  },
+  {
+    "de": "Heft",
+    "gender": "n",
+    "plural": "Hefte",
+    "fa": "دفتر"
+  },
+  {
+    "de": "Stift",
+    "gender": "m",
+    "plural": "Stifte",
+    "fa": "قلم"
+  },
+  {
+    "de": "Tasche",
+    "gender": "f",
+    "plural": "Taschen",
+    "fa": "کیف"
+  },
+  {
+    "de": "Rucksack",
+    "gender": "m",
+    "plural": "Rucksäcke",
+    "fa": "کوله‌پشتی"
+  },
+  {
+    "de": "Prüfung",
+    "gender": "f",
+    "plural": "Prüfungen",
+    "fa": "امتحان"
+  },
+  {
+    "de": "Hausaufgabe",
+    "gender": "f",
+    "plural": "Hausaufgaben",
+    "fa": "تکلیف"
+  },
+  {
+    "de": "Tag",
+    "gender": "m",
+    "plural": "Tage",
+    "fa": "روز"
+  },
+  {
+    "de": "Woche",
+    "gender": "f",
+    "plural": "Wochen",
+    "fa": "هفته"
+  },
+  {
+    "de": "Monat",
+    "gender": "m",
+    "plural": "Monate",
+    "fa": "ماه"
+  },
+  {
+    "de": "Jahr",
+    "gender": "n",
+    "plural": "Jahre",
+    "fa": "سال"
+  },
+  {
+    "de": "Stunde",
+    "gender": "f",
+    "plural": "Stunden",
+    "fa": "ساعت"
+  },
+  {
+    "de": "Minute",
+    "gender": "f",
+    "plural": "Minuten",
+    "fa": "دقیقه"
+  },
+  {
+    "de": "Morgen",
+    "gender": "m",
+    "plural": "Morgen",
+    "fa": "صبح"
+  },
+  {
+    "de": "Abend",
+    "gender": "m",
+    "plural": "Abende",
+    "fa": "عصر"
+  },
+  {
+    "de": "Nacht",
+    "gender": "f",
+    "plural": "Nächte",
+    "fa": "شب"
+  },
+  {
+    "de": "Montag",
+    "gender": "m",
+    "plural": "Montage",
+    "fa": "دوشنبه"
+  },
+  {
+    "de": "Dienstag",
+    "gender": "m",
+    "plural": "Dienstage",
+    "fa": "سه‌شنبه"
+  },
+  {
+    "de": "Mittwoch",
+    "gender": "m",
+    "plural": "Mittwoche",
+    "fa": "چهارشنبه"
+  },
+  {
+    "de": "Donnerstag",
+    "gender": "m",
+    "plural": "Donnerstage",
+    "fa": "پنجشنبه"
+  },
+  {
+    "de": "Freitag",
+    "gender": "m",
+    "plural": "Freitage",
+    "fa": "جمعه"
+  },
+  {
+    "de": "Samstag",
+    "gender": "m",
+    "plural": "Samstage",
+    "fa": "شنبه"
+  },
+  {
+    "de": "Sonntag",
+    "gender": "m",
+    "plural": "Sonntage",
+    "fa": "یکشنبه"
+  },
+  {
+    "de": "Januar",
+    "gender": "m",
+    "plural": "Januare",
+    "fa": "ژانویه"
+  },
+  {
+    "de": "Februar",
+    "gender": "m",
+    "plural": "Februare",
+    "fa": "فوریه"
+  },
+  {
+    "de": "März",
+    "gender": "m",
+    "plural": "Märze",
+    "fa": "مارس"
+  },
+  {
+    "de": "April",
+    "gender": "m",
+    "plural": "Aprile",
+    "fa": "آوریل"
+  },
+  {
+    "de": "Mai",
+    "gender": "m",
+    "plural": "Maie",
+    "fa": "مه"
+  },
+  {
+    "de": "Juni",
+    "gender": "m",
+    "plural": "Junis",
+    "fa": "ژوئن"
+  },
+  {
+    "de": "Juli",
+    "gender": "m",
+    "plural": "Julis",
+    "fa": "ژوئیه"
+  },
+  {
+    "de": "August",
+    "gender": "m",
+    "plural": "Auguste",
+    "fa": "اوت"
+  },
+  {
+    "de": "September",
+    "gender": "m",
+    "plural": "Septembere",
+    "fa": "سپتامبر"
+  },
+  {
+    "de": "Oktober",
+    "gender": "m",
+    "plural": "Oktobere",
+    "fa": "اکتبر"
+  },
+  {
+    "de": "November",
+    "gender": "m",
+    "plural": "Novembere",
+    "fa": "نوامبر"
+  },
+  {
+    "de": "Dezember",
+    "gender": "m",
+    "plural": "Dezembere",
+    "fa": "دسامبر"
+  },
+  {
+    "de": "Frühling",
+    "gender": "m",
+    "plural": "Frühlinge",
+    "fa": "بهار"
+  },
+  {
+    "de": "Sommer",
+    "gender": "m",
+    "plural": "Sommer",
+    "fa": "تابستان"
+  },
+  {
+    "de": "Herbst",
+    "gender": "m",
+    "plural": "Herbste",
+    "fa": "پاییز"
+  },
+  {
+    "de": "Winter",
+    "gender": "m",
+    "plural": "Winter",
+    "fa": "زمستان"
+  },
+  {
+    "de": "Sonne",
+    "gender": "f",
+    "plural": null,
+    "fa": "خورشید"
+  },
+  {
+    "de": "Mond",
+    "gender": "m",
+    "plural": "Monde",
+    "fa": "ماه"
+  },
+  {
+    "de": "Stern",
+    "gender": "m",
+    "plural": "Sterne",
+    "fa": "ستاره"
+  },
+  {
+    "de": "Himmel",
+    "gender": "m",
+    "plural": null,
+    "fa": "آسمان"
+  },
+  {
+    "de": "Erde",
+    "gender": "f",
+    "plural": null,
+    "fa": "زمین"
+  },
+  {
+    "de": "Wetter",
+    "gender": "n",
+    "plural": null,
+    "fa": "آب‌وهوا"
+  },
+  {
+    "de": "Regen",
+    "gender": "m",
+    "plural": null,
+    "fa": "باران"
+  },
+  {
+    "de": "Schnee",
+    "gender": "m",
+    "plural": null,
+    "fa": "برف"
+  },
+  {
+    "de": "Wolke",
+    "gender": "f",
+    "plural": "Wolken",
+    "fa": "ابر"
+  },
+  {
+    "de": "Baum",
+    "gender": "m",
+    "plural": "Bäume",
+    "fa": "درخت"
+  },
+  {
+    "de": "Blume",
+    "gender": "f",
+    "plural": "Blumen",
+    "fa": "گل"
+  },
+  {
+    "de": "Garten",
+    "gender": "m",
+    "plural": "Gärten",
+    "fa": "باغ"
+  },
+  {
+    "de": "Park",
+    "gender": "m",
+    "plural": "Parks",
+    "fa": "پارک"
+  },
+  {
+    "de": "See",
+    "gender": "m",
+    "plural": "Seen",
+    "fa": "دریاچه"
+  },
+  {
+    "de": "Fluss",
+    "gender": "m",
+    "plural": "Flüsse",
+    "fa": "رودخانه"
+  },
+  {
+    "de": "Meer",
+    "gender": "n",
+    "plural": "Meere",
+    "fa": "دریا"
+  },
+  {
+    "de": "Hund",
+    "gender": "m",
+    "plural": "Hunde",
+    "fa": "سگ"
+  },
+  {
+    "de": "Katze",
+    "gender": "f",
+    "plural": "Katzen",
+    "fa": "گربه"
+  },
+  {
+    "de": "Vogel",
+    "gender": "m",
+    "plural": "Vögel",
+    "fa": "پرنده"
+  },
+  {
+    "de": "Pferd",
+    "gender": "n",
+    "plural": "Pferde",
+    "fa": "اسب"
+  },
+  {
+    "de": "Maus",
+    "gender": "f",
+    "plural": "Mäuse",
+    "fa": "موش"
+  },
+  {
+    "de": "Freund",
+    "gender": "m",
+    "plural": "Freunde",
+    "fa": "دوست"
+  },
+  {
+    "de": "Freundin",
+    "gender": "f",
+    "plural": "Freundinnen",
+    "fa": "دوست (زن)"
+  },
+  {
+    "de": "Nachbar",
+    "gender": "m",
+    "plural": "Nachbarn",
+    "fa": "همسایه",
+    "weak": true
+  },
+  {
+    "de": "Kollege",
+    "gender": "m",
+    "plural": "Kollegen",
+    "fa": "همکار",
+    "weak": true
+  },
+  {
+    "de": "Arzt",
+    "gender": "m",
+    "plural": "Ärzte",
+    "fa": "پزشک"
+  },
+  {
+    "de": "Polizist",
+    "gender": "m",
+    "plural": "Polizisten",
+    "fa": "پلیس",
+    "weak": true
+  },
+  {
+    "de": "Kellner",
+    "gender": "m",
+    "plural": "Kellner",
+    "fa": "گارسون"
+  },
+  {
+    "de": "Name",
+    "gender": "m",
+    "plural": "Namen",
+    "fa": "اسم",
+    "weak": true
+  },
+  {
+    "de": "Herr",
+    "gender": "m",
+    "plural": "Herren",
+    "fa": "آقا",
+    "weak": true,
+    "weak_suffix": "n"
+  },
+  {
+    "de": "Bank",
+    "gender": "f",
+    "plural": "Banken",
+    "fa": "بانک"
+  },
+  {
+    "de": "Krankenhaus",
+    "gender": "n",
+    "plural": "Krankenhäuser",
+    "fa": "بیمارستان"
+  },
+  {
+    "de": "Apotheke",
+    "gender": "f",
+    "plural": "Apotheken",
+    "fa": "داروخانه"
+  },
+  {
+    "de": "Geld",
+    "gender": "n",
+    "plural": null,
+    "fa": "پول"
+  },
+  {
+    "de": "Rechnung",
+    "gender": "f",
+    "plural": "Rechnungen",
+    "fa": "صورتحساب"
+  },
+  {
+    "de": "Zeit",
+    "gender": "f",
+    "plural": "Zeiten",
+    "fa": "وقت، زمان"
+  },
+  {
+    "de": "Leben",
+    "gender": "n",
+    "plural": null,
+    "fa": "زندگی"
+  },
+  {
+    "de": "Liebe",
+    "gender": "f",
+    "plural": null,
+    "fa": "عشق"
+  },
+  {
+    "de": "Glück",
+    "gender": "n",
+    "plural": null,
+    "fa": "شانس، خوشبختی"
+  },
+  {
+    "de": "Problem",
+    "gender": "n",
+    "plural": "Probleme",
+    "fa": "مشکل"
+  },
+  {
+    "de": "Frage",
+    "gender": "f",
+    "plural": "Fragen",
+    "fa": "سؤال"
+  },
+  {
+    "de": "Antwort",
+    "gender": "f",
+    "plural": "Antworten",
+    "fa": "پاسخ"
+  },
+  {
+    "de": "Sprache",
+    "gender": "f",
+    "plural": "Sprachen",
+    "fa": "زبان"
+  },
+  {
+    "de": "Wort",
+    "gender": "n",
+    "plural": "Wörter",
+    "fa": "واژه"
+  },
+  {
+    "de": "Satz",
+    "gender": "m",
+    "plural": "Sätze",
+    "fa": "جمله"
+  },
+  {
+    "de": "Nummer",
+    "gender": "f",
+    "plural": "Nummern",
+    "fa": "شماره"
+  },
+  {
+    "de": "Adresse",
+    "gender": "f",
+    "plural": "Adressen",
+    "fa": "آدرس"
+  },
+  {
+    "de": "Telefon",
+    "gender": "n",
+    "plural": "Telefone",
+    "fa": "تلفن"
+  },
+  {
+    "de": "Handy",
+    "gender": "n",
+    "plural": "Handys",
+    "fa": "موبایل"
+  },
+  {
+    "de": "Computer",
+    "gender": "m",
+    "plural": "Computer",
+    "fa": "کامپیوتر"
+  },
+  {
+    "de": "Brief",
+    "gender": "m",
+    "plural": "Briefe",
+    "fa": "نامه"
+  },
+  {
+    "de": "E-Mail",
+    "gender": "f",
+    "plural": "E-Mails",
+    "fa": "ایمیل"
+  },
+  {
+    "de": "Foto",
+    "gender": "n",
+    "plural": "Fotos",
+    "fa": "عکس"
+  },
+  {
+    "de": "Film",
+    "gender": "m",
+    "plural": "Filme",
+    "fa": "فیلم"
+  },
+  {
+    "de": "Musik",
+    "gender": "f",
+    "plural": null,
+    "fa": "موسیقی"
+  },
+  {
+    "de": "Lied",
+    "gender": "n",
+    "plural": "Lieder",
+    "fa": "آهنگ"
+  },
+  {
+    "de": "Urlaub",
+    "gender": "m",
+    "plural": "Urlaube",
+    "fa": "تعطیلات"
+  },
+  {
+    "de": "Reise",
+    "gender": "f",
+    "plural": "Reisen",
+    "fa": "سفر"
+  },
+  {
+    "de": "Geschenk",
+    "gender": "n",
+    "plural": "Geschenke",
+    "fa": "هدیه"
+  },
+  {
+    "de": "Party",
+    "gender": "f",
+    "plural": "Partys",
+    "fa": "مهمانی"
+  }
+]
